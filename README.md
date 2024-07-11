@@ -42,11 +42,7 @@ O método retorna o "status":
 - express,
 - cors.
 
-<<<<<<< HEAD
 ## Execução
-=======
-## Execução  
->>>>>>> 9ecb78d89dbfe7040744ff7b64b0a70ae1d8ae17
 
    <pre><code>npm start</code></pre>
    
